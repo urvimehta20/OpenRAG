@@ -1,0 +1,2 @@
+# OpenRAG
+using opensource models 
